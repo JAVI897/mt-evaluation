@@ -1,5 +1,4 @@
 model_name,task,source,target,dataset,bleu,ter,chrf,comet,comet_kiwi,bleurt,xcomet,metricx,metricx_qe,file_name
-salamandra2B,es_ca_flores_dev,es,ca,flores_dev,11.418507889252878,92.68920542303071,40.57352883095236,0.750854768030861,0.7322156663345118,0.5565934427747635,0.731245267418855,4.092397373251863,6.297015835253621,results_es_ca_flores_dev.json
 nllb_3.3B,en_es_nonce_hb,en,es,nonce_hb,,,,,,,,,,results_en_es_nonce_hb.json
 nllb_3.3B,en_ca_must_she,en,ca,must_she,55.71769981536027,32.050238811250665,73.9454084665035,0.8710077867268375,0.8340327868906505,0.7782730875688306,0.8831551556096693,2.5852402244084045,2.2052048303400786,results_en_ca_must_she.json
 nllb_3.3B,en_es_race_ethnicity_hb,en,es,race_ethnicity_hb,,,,,,,,,,results_en_es_ethnicity_hb.json
